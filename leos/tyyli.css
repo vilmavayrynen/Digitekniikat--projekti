@@ -1,0 +1,74 @@
+body {
+  background-color: rgba(227, 122, 140, 0.769);
+  position: relative;
+  font-family: 'Playfair Display', serif;
+  text-align: center;
+
+}
+
+.menu-container {
+  background-color: rgb(233, 227, 227);
+}
+
+a:hover {
+  color: white !important;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.h4 {
+  text-align: center;
+
+}
+
+.navbar-brand {
+  font-style: italic;
+  font-size: 40px;
+}
+
+.ravintolakuvat img {
+  border-radius: 30% 0%;
+  width: 100%;
+}
+
+.cards {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(230px, 1fr));
+  grid-gap: 20px;
+}
+
+.cards img {
+  object-fit: cover;
+  width: "150px";
+  height: "200px";
+}
+
+.juomat img {
+  width: 100%;
+  max-width: "450px";
+}
+
+.card-link {
+  color: black;
+}
+
+#videot .nav-link.active {
+  color: white !important;
+}
+
+label {
+  display: block;
+}
+
+label {
+  display: block;
+}
+
+input[type=submit],
+input[type=reset] {
+  color: black;
+}
