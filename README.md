@@ -3,9 +3,8 @@ Leo's on kuvitteellisen ravintolan verkkosivut. Verkkotehtävä on toteutettu Ha
 
 Screenshots
 
-<img width="1440" alt="leo1" src="https://user-images.githubusercontent.com/96781698/211044050-d31a30bc-fc50-46b0-a01a-102a01273ced.png">
-<img width="1440" alt="leo2" src="https://user-images.githubusercontent.com/96781698/211044072-53a9d08e-a37a-4358-a64f-3a4dec288748.png">
-<img width="1440" alt="leo3" src="https://user-images.githubusercontent.com/96781698/211044084-de433a13-e45e-4845-8fd1-128bb64c6692.png">
-<img width="1440" alt="leo4" src="https://user-images.githubusercontent.com/96781698/211044090-0a5b105c-061e-4d39-9d82-50feb095cb2c.png">
-<img width="1440" alt="leo5" src="https://user-images.githubusercontent.com/96781698/211044104-a2d3f42f-762f-4cbc-aa14-b3b460c6847a.png">
-<img width="1440" alt="leo6" src="https://user-images.githubusercontent.com/96781698/211044109-7d7443e6-6b13-49fa-93ea-aa05dbbf0985.png">
+<img width="1440" alt="Näyttökuva 2023-1-7 kello 11 15 02" src="https://user-images.githubusercontent.com/96781698/211143329-bb36bb1e-e727-44d2-87e1-ce8663f99913.png">
+<img width="1440" alt="Näyttökuva 2023-1-7 kello 11 15 22" src="https://user-images.githubusercontent.com/96781698/211143331-188a9590-faa5-4875-b4fe-6691ed09bcbe.png">
+<img width="1440" alt="Näyttökuva 2023-1-7 kello 11 15 40" src="https://user-images.githubusercontent.com/96781698/211143338-9229d3d0-773b-483e-968c-4b3fe7607507.png">
+<img width="1440" alt="Näyttökuva 2023-1-7 kello 11 16 17" src="https://user-images.githubusercontent.com/96781698/211143347-b6fc3e12-4548-48ab-b150-95b4271df3bc.png">
+<img width="1440" alt="Näyttökuva 2023-1-7 kello 11 17 06" src="https://user-images.githubusercontent.com/96781698/211143350-9fdf22ce-b3a0-40e3-9282-bc5902c8bfcd.png">
